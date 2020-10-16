@@ -28,7 +28,7 @@
 ## Програмне забезпечення
 
 * [Зручна бібліотека для роботи з форматом CoNLL](https://github.com/EmilStenstrom/conllu)
-* [Біліотека для машинного навчання sklearn](https://scikit-learn.org/stable/)
+* [Бібліотека для машинного навчання sklearn](https://scikit-learn.org/stable/)
 
 ## Оцінювання
 
