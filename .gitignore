@@ -131,3 +131,6 @@ dmypy.json
 # OS X
 .DS_Store
 
+# IDE
+.vscode/
+*.conllu.txt
